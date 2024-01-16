@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "vs1053.h": "c",
+        "esp_spiffs.h": "c",
+        "freertos.h": "c",
+        "rmt.h": "c",
+        "esp_log.h": "c"
+    }
+}
